@@ -25,3 +25,5 @@ In this course, you will:
 - **Distinguish between full page requests and partial htmx requests** within a single view method in Flask.
 - And lots more
 
+All the initial code are from **Talk Python Training** in their course "HTMX + Flask: Modern Python Web Apps, Hold the JavaScript" 
+[https://training.talkpython.fm/courses/details/htmx-flask-modern-python-web-apps-hold-the-javascript]
