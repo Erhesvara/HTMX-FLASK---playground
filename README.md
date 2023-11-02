@@ -26,4 +26,6 @@ In this course, you will:
 - And lots more
 
 All the initial code are from **Talk Python Training** in their course "HTMX + Flask: Modern Python Web Apps, Hold the JavaScript" 
-[[https://training.talkpython.fm/courses/details/htmx-flask-modern-python-web-apps-hold-the-javascript]]
+[https://training.talkpython.fm/courses/details/htmx-flask-modern-python-web-apps-hold-the-javascript]
+
+I'll just use their initial code for my HTMX + Flask Playground and training purpose only. 
