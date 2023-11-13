@@ -19,3 +19,13 @@ def category(cat_name: str):
 def play(video_id: str):
     vm = PlayViewModel(video_id)
     return vm.to_dict()
+
+
+@blueprint.post('/videos/add/<cat_name>')
+def add_post(cat_name: str):
+    vm = AddVideoViewModel(cat_name)
+    vm.restore_form_form()
+
+    # TODO: Add video here
+
+    return flask.redirect(f'/videos/category/{cat_name}')
