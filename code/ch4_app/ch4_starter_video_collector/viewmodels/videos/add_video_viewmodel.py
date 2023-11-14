@@ -1,14 +1,12 @@
 from typing import Optional
 
-from models.video_model import Video
-from services import video_service
 from viewmodels.shared.viewmodelbase import ViewModelBase
 
 
-class PlayViewModel(ViewModelBase):
-    def __init__(self, cat_name: str):
-        super().__init__()
-
+class AddViewViewModel(ViewModelBase):
+    def __int__(self, cat_name: str):
+        super().__int__()
+        
         self.cat_name = cat_name
         self.id: Optional[str] = None
         self.title: Optional[str] = None
