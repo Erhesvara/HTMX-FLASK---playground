@@ -30,5 +30,4 @@ All the initial code are from **Talk Python Training** in their course "HTMX + F
 
 [https://training.talkpython.fm/courses/details/htmx-flask-modern-python-web-apps-hold-the-javascript]
 
-
 _I'll just use their initial code for my HTMX + Flask Playground and training purpose only._
